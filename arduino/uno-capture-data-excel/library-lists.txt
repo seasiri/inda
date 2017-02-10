@@ -1,0 +1,7 @@
+Launch -> arduino -> sketch -> include library -> manage libraries
+Here are list of library required to load to run the code:
+- Adafruit_TSL2561 (for lux, ir)
+- Arduino-DHT22-master
+- DHT-sensor-library
+
+Test by compiled the code in arduino ide
