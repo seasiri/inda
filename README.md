@@ -9,4 +9,4 @@
  INDA community grow exponentially over time without a central management of resources packages. This will help preventing community to RE-INVENTING the unnecessary wheel. 
     
 ## Who is running this repository? 
- INDA students STU81 / Sea
+ INDA students STU81 
